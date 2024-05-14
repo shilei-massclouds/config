@@ -1,2 +1,2 @@
-# axconfig
+# config
 Basic config.
